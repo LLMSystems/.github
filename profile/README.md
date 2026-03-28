@@ -2,6 +2,15 @@
 
 # Learning LLM Systems by Building
 
+<p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-green">
+  <img src="https://img.shields.io/badge/LLM-Systems-blue">
+  <img src="https://img.shields.io/badge/RAG-Framework-green">
+  <img src="https://img.shields.io/badge/stack-FastAPI-blue">
+  <img src="https://img.shields.io/badge/stack-TensorRT-black">
+  <img src="https://img.shields.io/badge/stack-vLLM-blue">
+</p>
+
 </div>
 
 ![introduction](assets/introduction.png)
