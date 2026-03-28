@@ -76,3 +76,12 @@ This is an ongoing journey.
 Many things are incomplete, naive, or experimental — and that’s intentional.
 
 If you’re also learning, feel free to explore, use, or build on top of these projects.
+
+
+## Contact
+If you have any questions, ideas, or just want to chat about LLMs, feel free to:
+
+- Open an issue  
+- Or reach out via email  
+
+milk333445@gmail.com
