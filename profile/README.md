@@ -1,4 +1,8 @@
+<div align="center" xmlns="http://www.w3.org/1999/html">
+
 # Learning LLM Systems by Building
+
+</div>
 
 ![introduction](assets/introduction.png)
 
