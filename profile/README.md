@@ -42,6 +42,8 @@ These projects are not perfect or production-ready — they reflect my **learnin
 ### Routing
 - **[LLM Router Server](https://github.com/LLMSystems/LLM-Router-Server)**  
   Learning how to route requests across multiple models with load balancing.
+- **[LLM Router Server Dashboard](https://github.com/LLMSystems/LLM-Router-Server-Dashboard)**  
+  One-Stop LLM Model Management and Monitoring Platform.
 
 ### Retrieval & RAG
 - **[Tiny-RAGFlow](https://github.com/LLMSystems/Tiny-RAGFlow)**  
