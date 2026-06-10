@@ -35,6 +35,11 @@ Instead of only studying theory, I try to **learn by building real systems** —
 
 These projects are not perfect or production-ready — they reflect my **learning process and experiments**.
 
+### Agent 
+- **[picobot](https://github.com/LLMSystems/picobot)**  
+  A small, clear, and extensible multi-user Web Agent — chat, call tools, operate a workspace, browse the web, search for information, with each conversation running in an isolated sandbox.
+
+
 ### Inference & Serving
 - **[TensorRT Inference Server](https://github.com/LLMSystems/TensorrtServer)**  
   Exploring high-performance model serving and GPU optimization.
@@ -54,6 +59,10 @@ These projects are not perfect or production-ready — they reflect my **learnin
   A unified interface for interacting with LLMs, embeddings, and rerankers.
 
 ### Data Processing
+- **[SEC-10-K-Structured-Extraction](https://github.com/LLMSystems/SEC-10-K-Structured-Extraction)**  
+  About Parses SEC EDGAR Form 10-K annual reports into standardized JSON, automatically identifying the content and status of every Item.
+- **[SEC-10-K-Structured-Extraction-Web](https://github.com/LLMSystems/SEC-10-K-Structured-Extraction-Web)**  
+  About Parses SEC EDGAR Form 10-K annual reports into standardized JSON, automatically identifying the content and status of every Item.
 - **[file2md](https://github.com/LLMSystems/file2md)**  
   Converting different file formats into Markdown for downstream LLM usage.
 
