@@ -17,12 +17,13 @@
 
 This organization is a collection of projects created during my journey of learning Large Language Models (LLMs), retrieval systems, and AI infrastructure.
 
-Instead of only studying theory, I try to **learn by building real systems** — from inference servers to RAG pipelines and evaluation frameworks.
+Instead of only studying theory, I try to **learn by building real systems** — from inference servers to RAG pipelines and Agent Harness frameworks.
 
 ---
 
 ## What I'm Exploring
 
+- How agent harness frameworks work (tools / memory / planning / orchestration)
 - How to serve models efficiently (GPU / TensorRT / batching)
 - How to route and manage multiple LLMs
 - How retrieval works (dense / sparse / hybrid / multi-vector)
