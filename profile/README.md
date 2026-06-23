@@ -40,16 +40,11 @@ These projects are not perfect or production-ready — they reflect my **learnin
 - **[picobot](https://github.com/LLMSystems/picobot)**  
   A small, clear, and extensible multi-user Web Agent — chat, call tools, operate a workspace, browse the web, search for information, with each conversation running in an isolated sandbox.
 
-
-### Inference & Serving
+### Inference & Serving & Routing
+- **[vLLMux](https://github.com/LLMSystems/vLLMux)**  
+  One-stop platform to deploy, route, monitor & evaluate your vLLM cluster
 - **[TensorRT Inference Server](https://github.com/LLMSystems/TensorrtServer)**  
   Exploring high-performance model serving and GPU optimization.
-
-### Routing
-- **[LLM Router Server](https://github.com/LLMSystems/LLM-Router-Server)**  
-  Learning how to route requests across multiple models with load balancing.
-- **[LLM Router Server Dashboard](https://github.com/LLMSystems/LLM-Router-Server-Dashboard)**  
-  One-Stop LLM Model Management and Monitoring Platform.
 
 ### Retrieval & RAG
 - **[Tiny-RAGFlow](https://github.com/LLMSystems/Tiny-RAGFlow)**  
