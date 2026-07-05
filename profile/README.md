@@ -13,7 +13,11 @@
 
 </div>
 
+
+
 ![introduction](assets/introduction.png)
+
+**[作品集連結](https://portfolio-tung-hui-kuo.vercel.app/)** — 查看完整專案作品集與個人簡介
 
 This organization is a collection of projects created during my journey of learning Large Language Models (LLMs), retrieval systems, and AI infrastructure.
 
